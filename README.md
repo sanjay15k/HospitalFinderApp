@@ -1,5 +1,7 @@
 # Hospital Finder App : Flutter
 
+<img src="https://user-images.githubusercontent.com/35829879/53858900-e1443780-4001-11e9-8927-297f1eac135d.png" width=200px>
+
 # Screenshots
 
 <img src="https://user-images.githubusercontent.com/35829879/53858018-6fb6ba00-3ffe-11e9-9143-2c11d987d96a.png" width=330px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/35829879/53858030-75ac9b00-3ffe-11e9-9a73-b0cd97cb6ffb.png" width=330px>
