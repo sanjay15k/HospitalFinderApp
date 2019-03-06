@@ -1,16 +1,18 @@
-# hospital_app
+# Hospital Finder App : Flutter
 
-A new Flutter application.
+# Screenshots
 
-## Getting Started
+<img src="https://user-images.githubusercontent.com/35829879/53858018-6fb6ba00-3ffe-11e9-9143-2c11d987d96a.png" width=330px>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/35829879/53858030-75ac9b00-3ffe-11e9-9a73-b0cd97cb6ffb.png" width=330px>
 
-This project is a starting point for a Flutter application.
+<hr>
 
-A few resources to get you started if this is your first Flutter project:
+# More UI Designs of the app (to be implemented)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+<img src="https://user-images.githubusercontent.com/35829879/53858137-f53a6a00-3ffe-11e9-9298-c4bd06390dad.png" width=330px>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/35829879/53858412-1ea7c580-4000-11e9-80c6-9ef28e5d2373.png" width=330px>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<hr>
+
+# Live on mobile devices
+
+<img src="https://user-images.githubusercontent.com/35829879/53858492-721a1380-4000-11e9-8c52-135648f3008c.png" width=330px><img src="https://user-images.githubusercontent.com/35829879/53858434-3717e000-4000-11e9-93f5-a58c0efeb46c.png" width=300px>&nbsp;<img src="https://user-images.githubusercontent.com/35829879/53858458-4bf47380-4000-11e9-8494-2fcd957c0844.png" width=230px>
